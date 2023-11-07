@@ -28,7 +28,7 @@ numpy
 oauthlib
 opt-einsum
 packaging
-protobuf
+protobuf==3.20.*
 pyasn1
 pyasn1-modules
 requests

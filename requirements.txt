@@ -1,0 +1,5 @@
+tensorflow
+numpy
+DateTime
+jsonlib
+flask

@@ -8,7 +8,7 @@ from tensorflow import keras
 app = Flask(__name__)
 
 # Replace with your actual Gold API key
-API_KEY = "goldapi-1d67wrlogrj9de-io"
+API_KEY = "goldapi-3ejljvrlopau9v4-io"
 
 # Load the pre-trained model
 model = keras.models.load_model('model.h5')
